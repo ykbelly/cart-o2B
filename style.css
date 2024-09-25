@@ -1,3 +1,15 @@
 body{
-    background-color: bisque;
+    background-color: rgb(230, 200, 165);
+    font-family: Bai Jamjuree;
+}
+
+
+#container{
+    display: flex;
+}
+
+.cartao{
+
+    margin: 1rem 1rem;
+    background-color: rgb(223, 153, 180);
 }
